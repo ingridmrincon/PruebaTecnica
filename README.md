@@ -21,6 +21,7 @@ Principalmente los siguientes aspectos:
 2. Existen 2 opciones para entregar su proyecto:
     * 1) Deseable si puede entregar el proyecto realizando un commit en la rama master a este repositorio https://github.com/DetektorGit/PruebaTecnica.git en donde primero tendría que clonarlo con su cuenta de GitHub y notificar a la siguiente dirección de correo electrónico  [milena.miranda@detektor.com.co](mailto:milena.miranda@detektor.com.co).
     * 2) Crear un archivo comprimido (_.zip_ o _.rar_) de su proyecto y enviar a la siguiente dirección de correo electrónico  [milena.miranda@detektor.com.co](mailto:milena.miranda@detektor.com.co).
+3. Enviar un video del funcionamiento de los módulos a modo de prueba funcional.
 
 ## EJERCICIO
 
