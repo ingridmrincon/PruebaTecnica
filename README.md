@@ -8,8 +8,8 @@ Este archivo contiene las especificaciones del caso práctico que se desea desar
 #### ¿Qué se evaluará?
 Principalmente los siguientes aspectos:
 
-1. Programar los módulos Frontend en cualquier Framework de javascript como Angular, Bootstrap, ReactJs o también usando Primefaces de Java. Para la parte Backend debe implementar Java JEE usando los conceptos de WAR y EJB y/o RESTFULL si escoge un framework javascript. Para la base de datos puede usar Postgres o Mysql.
-2.  El uso de  patrones de diseño como Singleton, Builder, Facade, Observer, Interface, Prototype en los dos frentes backend y frontend.
+1. Programar los módulos Frontend en cualquier Framework de javascript como Angular, Bootstrap o también usando JPA, JSF. Para la parte Backend debe implementar Java JEE usando los conceptos de WAR y EJB y/o RESTFULL si escoge un framework javascript. Para la base de datos puede usar Postgres o Mysql.
+2.  El uso de  patrones de diseño como Singleton, Builder, Facade, Observer, Interface, MVC en los dos frentes backend y frontend.
 3. Orden del código (Buenas prácticas)
 4. Creatividad
 5. Estandarización de base de datos y optimización de almacenamiento
@@ -17,10 +17,10 @@ Principalmente los siguientes aspectos:
 7. Diagrama entidad-relacion (Entregar el diagrama en cualquier IDE de diseño)
 
 ## NOTA
-1. Recomendamos emplear un máximo de **3 (días)** y enviar todo lo que puedas.
+1. Recomendamos emplear un máximo de **4 (días)** y enviar todo lo que puedas.
 2. Existen 2 opciones para entregar su proyecto:
-    * 1) Deseable si puede entregar el proyecto realizando un commit en la rama master a este repositorio https://github.com/DetektorGit/PruebaTecnica.git en donde primero tendría que clonarlo con su cuenta de GitHub y notificar a la siguiente dirección de correo electrónico  [juan.velasquez@detektor.com.gt](mailto:juan.velasquez@detektor.com.gt).
-    * 2) Crear un archivo comprimido (_.zip_ o _.rar_) de su proyecto y enviar a la siguiente dirección de correo electrónico  [juan.velasquez@detektor.com.gt](mailto:juan.velasquez@detektor.com.gt).
+    * 1) Deseable si puede entregar el proyecto realizando un commit en la rama master a este repositorio https://github.com/DetektorGit/PruebaTecnica.git en donde primero tendría que clonarlo con su cuenta de GitHub y notificar a la siguiente dirección de correo electrónico  [milena.miranda@detektor.com.co](mailto:milena.miranda@detektor.com.co).
+    * 2) Crear un archivo comprimido (_.zip_ o _.rar_) de su proyecto y enviar a la siguiente dirección de correo electrónico  [milena.miranda@detektor.com.co](mailto:milena.miranda@detektor.com.co).
 
 ## EJERCICIO
 
